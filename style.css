@@ -1,0 +1,33 @@
+body{
+    font-family:  'Cookie', cursive;
+    background-color: blueviolet;    
+}
+.header_div h2{
+    font-weight: bold;
+}
+.header_div{
+    background-color: cadetblue;
+    color: black;
+    font-size: large;
+}
+.header_div p{
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Cookie', cursive; 
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+.copyrightfooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: medium;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px coral;
+    background-color: white;
+}
